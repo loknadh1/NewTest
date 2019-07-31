@@ -13,5 +13,13 @@ namespace WebApplication1.Controllers.controller_test
         {
             return View();
         }
+
+
+
+        public DefaultController()
+        {
+
+        }
+
     }
 }
